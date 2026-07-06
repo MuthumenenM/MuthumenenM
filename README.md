@@ -23,38 +23,6 @@
 
 <br/>
 
-<!-- ========================================================= -->
-<!-- 3. CODE-BLOCK ABOUT ME -->
-<!-- ========================================================= -->
-```python
-class Muthumenen:
-    def __init__(self):
-        self.name = "Muthumenen M"
-        self.location = "Tamil Nadu, India"
-        self.degree = "B.Tech - Artificial Intelligence & Data Science, 2023-2027"
-        self.role = "Data Science Intern @ Thiranex"
-
-        self.stack = {
-            "languages": ["Python", "SQL", "HTML"],
-            "libraries": ["Pandas", "NumPy"],
-            "visualization": ["Power BI", "Tableau", "Excel"],
-            "databases": ["MySQL", "MongoDB"],
-        }
-
-        self.currently_learning = ["Retrieval-Augmented Generation (RAG)", "Advanced ML pipelines"]
-        self.fun_fact = "I've built everything from a placement predictor to a vaccine cold-chain monitor 🌡️"
-
-    def motto(self):
-        return "Raw data in, real decisions out."
-
-
-me = Muthumenen()
-print(me.motto())
-```
-
-<!-- ========================================================= -->
-<!-- 4. TECH BADGES -->
-<!-- ========================================================= -->
 ### 🛠️ Tech Stack
 
 **Languages**
