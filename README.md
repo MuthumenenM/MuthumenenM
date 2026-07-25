@@ -132,6 +132,7 @@
 | Achievement | Detail |
 |---|---|
 | 🥉 Hackathon | 3rd Prize — Synergia 2026 |
+| 📜 Certification | Oracle Al Database Certified Foundations Associate - Oracle University |
 | 📜 Certification | AI Agents Intensive Course — Kaggle & Google |
 | 📜 Certification | Artificial Intelligence Fundamentals — IBM |
 | 📜 Job Simulation | GenAI Powered Data Analytics — Forage |
